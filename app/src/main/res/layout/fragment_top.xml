@@ -35,6 +35,7 @@
         <Button
             android:id="@+id/btn_rock"
             android:layout_width="0dp"
+            android:background="@drawable/action_btn_bg"
             android:layout_weight="1"
             android:text="@string/btn_rock"
             android:layout_marginRight="10dp"
@@ -42,6 +43,7 @@
 
         <Button
             android:id="@+id/btn_paper"
+            android:background="@drawable/action_btn_bg"
             android:layout_width="0dp"
             android:layout_weight="1"
             android:text="@string/btn_paper"
@@ -50,6 +52,7 @@
 
         <Button
             android:id="@+id/btn_scissors"
+            android:background="@drawable/action_btn_bg"
             android:layout_width="0dp"
             android:layout_weight="1"
             android:text="@string/btn_scissors"
@@ -72,7 +75,7 @@
             android:textSize="22sp"/>
 
         <TextView
-            android:id="@+id/tv_computer_pick"
+            android:id="@+id/tv_phone_pick"
             android:textSize="22sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />

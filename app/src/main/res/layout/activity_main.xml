@@ -8,16 +8,18 @@
     tools:context=".MainActivity">
 
     <fragment
+        android:id="@+id/fragment_top"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
         class="com.example.cs3270a3.FragmentTop" />
 
     <fragment
+        android:id="@+id/fragment_bottom"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-        class="com.example.cs3270a3.FragmentButtom" />
+        class="com.example.cs3270a3.FragmentBottom" />
 
 
 </LinearLayout>

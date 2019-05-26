@@ -16,4 +16,7 @@
     <string name="tie_count">Tie Games</string>
     <string name="btn_reset_counts">RESET COUNTS</string>
     <string name="btn_play_again">PLAY AGAIN</string>
+    <string name="game_tied">Game was a tie</string>
+    <string name="player_won">You won this round.</string>
+    <string name="computer_won">Computer won this round</string>
 </resources>
