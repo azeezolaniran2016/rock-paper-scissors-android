@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CS3270A3 Matt D</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="game_title">Rock, Paper, Scissors</string>
+    <string name="game_creator">By Matt D</string>
+    <string name="my_pick">My Pick</string>
+    <string name="btn_rock">Rock</string>
+    <string name="btn_paper">Paper</string>
+    <string name="btn_scissors">Scissors</string>
+    <string name="phone_pick">Phone Pick is</string>
+    <string name="games_played">Games Played</string>
+    <string name="phone_win_count">Phone Win Count</string>
+    <string name="my_win_count">My Win Count</string>
+    <string name="tie_count">Tie Games</string>
+    <string name="btn_reset_counts">RESET COUNTS</string>
+    <string name="btn_play_again">PLAY AGAIN</string>
+</resources>
